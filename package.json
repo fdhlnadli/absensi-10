@@ -1,0 +1,18 @@
+{
+   "name": "project-absensi-10",
+   "version": "1.0.0",
+   "description": "merupakan project tingkat sekolah, yang digunakan untuk absensi kehadiran yang ada di sekolah",
+   "type": "module",
+   "main": "app.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [],
+   "author": "option-sman-10-bekasi",
+   "license": "ISC",
+   "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.1",
+      "mongoose": "^6.5.3"
+   }
+}

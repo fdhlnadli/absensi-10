@@ -1,0 +1,60 @@
+{
+   "kelas": {
+      "XIA1": {
+         "walikelas": {
+            "nama": "Drs. Yusrial, MM", 
+            "nohp": 857812412423
+         }, 
+         "siswa": [
+            {
+               "nama": "Adzril Ilham Ramadhan", 
+               "nisn": "0053773286",
+               "nohp": 857812412423, 
+               "alamat": "Jl. Kav. Serut Jaya Blok 3/No. 1, RT 008/RW 008", 
+               "orangtua": {
+                  "bapak": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }, 
+                  "ibu": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }
+               }
+            }, 
+            {
+               "nama": "Enricho Alrifa Adzani", 
+               "nisn": "0058744338",
+               "nohp": 857812412423, 
+               "alamat": "Jl. Kav. Serut Jaya Blok 3/No. 1, RT 008/RW 008", 
+               "orangtua": {
+                  "bapak": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }, 
+                  "ibu": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }
+               }
+            }, 
+            {
+               "nama": "Fadhlan Satrio Ghazian Adli", 
+               "nisn": "0066427035",
+               "nohp": 857812412423, 
+               "alamat": "Jl. Kav. Serut Jaya Blok 3/No. 1, RT 008/RW 008", 
+               "orangtua": {
+                  "bapak": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }, 
+                  "ibu": {
+                     "nama": "-", 
+                     "nohp": 857812412423
+                  }
+               }
+            }
+         ] 
+      }
+   }
+}

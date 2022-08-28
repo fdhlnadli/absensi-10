@@ -1,0 +1,21 @@
+GET 
+
+# GET DATA BY ID
+GET 
+
+# GET DATA BY NAME
+GET
+
+###
+POST 
+Content-Type: application/json
+
+###
+PATCH 
+Content-Type: application/json
+
+###
+DELETE 
+
+# DELETE DATA BY ID
+DELETE
